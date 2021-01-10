@@ -1,0 +1,4 @@
+sudo apt purge bcmwl-kernel-source
+sudo apt-get install broadcom-sta-source
+sudo apt-get install broadcom-sta-dkms
+sudo apt-get install broadcom-sta-common
